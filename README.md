@@ -25,7 +25,7 @@ By incorporating uncertainty estimation and anomaly detection, the proposed appr
 
 ## 📂 Dataset Link ##
 
-📊 Dataset used: Credit Card Fraud Detection Dataset (Kaggle)
+📊 Dataset used: [Credit Card Fraud Dataset (Kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 This dataset contains real transactions made by European cardholders in September 2013, with a highly imbalanced class distribution (fraudulent vs. legitimate).
 
